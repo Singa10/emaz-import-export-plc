@@ -484,7 +484,7 @@ margin: 50px 0 30px;
 text-align: center;
 font-size: var(--font-size-m);
 }
-@media screen and (max-width:1024pxpx){
+@media screen and (max-width:1024px){
 .menu-section .menu-list .menu-item{
     width: calc(100% / 3 - 60px);
 }
